@@ -2,12 +2,18 @@
 {
     background-color: aqua;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
 }
 .assign {
 width: 20%;
 box-shadow: 8px 8px [blue];
 display: block; 
 border-radius: 20px; 
+}
+h1 {
+width: 100%;
+display: block;
 }
 
     
