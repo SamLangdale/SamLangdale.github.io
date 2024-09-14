@@ -6,3 +6,8 @@ h1 {
     text-align: center;
     color: orangered;
 }
+table {
+    text-align: left;
+    color:orangered;
+    font-size: x-large;
+}
