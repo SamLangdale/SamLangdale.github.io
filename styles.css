@@ -114,3 +114,23 @@ p {
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
     }
+    p {
+        text-align: center;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    .skills{
+        display:flex;
+        flex-wrap:wrap;
+        margin-right: 100px;
+        margin-left: 100px;
+        justify-content: center;
+        }
+    .skills p {
+        width: 100%;
+        text-align:left;
+        margin:auto;
+        line-height: 125%;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        }
+   
+    
